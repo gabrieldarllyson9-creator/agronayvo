@@ -1,0 +1,9 @@
+AGRONAYVO - SITE INICIAL
+
+1. Extraia esta pasta.
+2. Abra index.html no navegador para visualizar localmente.
+3. Para publicar no GitHub Pages, envie index.html, style.css, script.js e a pasta img para o repositório.
+
+A imagem da fachada já está em img/fachada-agronayvo.png.
+O botão de WhatsApp está configurado para (99) 98163-1197.
+O endereço da loja não foi incluído porque ainda não foi informado.
